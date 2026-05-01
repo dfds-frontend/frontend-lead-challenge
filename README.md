@@ -8,7 +8,7 @@ A small, well-considered slice gives us more to talk about than a sprawling half
 
 - **Send us the repo link ~24 hours before your interview** so we can read through it beforehand.
 - **Pick your interview slot with enough runway** to do the prep without rushing — we're flexible on timing.
-- **Do not fork this repo.** Clone it to a new private repo of your own (`git clone` then push to a fresh remote) and share that with us when you're done.
+- **Do not fork this repo.** Clone it to a new repo of your own (`git clone` then push to a fresh remote) and share the link with us when you're done.
 
 ## The product
 
